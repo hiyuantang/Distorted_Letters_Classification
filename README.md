@@ -13,7 +13,6 @@ Past Usage: -- P. W. Frey and D. J. Slate (Machine Learning Vol 6 #2 March 91): 
 The research for this article investigated the ability of several variations of Holland-style adaptive classifier systems to learn to correctly guess the letter categories associated with vectors of 16 integer attributes extracted from raster scan images of the letters. The best accuracy obtained was a little over 80%. It would be interesting to see how well other methods do with the same data.
 
 Relevant Information:
-
 The objective is to identify each of a large number of black-and-white rectangular pixel displays as one of the 26 capital letters in the English alphabet. The character images were based on 20 different fonts and each letter within these 20 fonts was randomly distorted to produce a file of 20,000 unique stimuli. Each stimulus was converted into 16 primitive numerical attributes (statistical moments and edge counts) which were then scaled to fit into a range of integer values from 0 through 15. We typically train on the first 16000 items and then use the resulting model to predict the letter category for the remaining 4000. See the article cited above for more details.
 
 Number of Instances: 20000
@@ -21,7 +20,6 @@ Number of Instances: 20000
 Number of Attributes: 17 (Letter category and 16 numeric features)
 
 Attribute Information:
-
 lettr capital letter (26 values from A to Z)
 x-box horizontal position of box (integer)
 y-box vertical position of box (integer)
