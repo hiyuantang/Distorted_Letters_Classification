@@ -7,6 +7,7 @@ Final report is [here](https://github.com/holatangyuan/Distorted_Letters_Classif
 
 A Visualization Preview: <br>
 ![Screenshot_20221220_102659](https://user-images.githubusercontent.com/24949723/208739459-560ec0c4-76e4-404c-a7ec-eb204d5b8893.png)
+![Screenshot_20221220_103220](https://user-images.githubusercontent.com/24949723/208740421-05bbf6eb-34ab-4c8b-b7af-58c67d29bf1b.png)
 
 Dataset Information: <br>
 Title: Letter Image Recognition Data <br>
