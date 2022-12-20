@@ -2,6 +2,9 @@
 
 Final report is [here](https://github.com/holatangyuan/Distorted_Letters_Classification/blob/main/final_report/FinalPaper.pdf)
 
+A Visualization Preview: <br>
+![Screenshot_20221220_102659](https://user-images.githubusercontent.com/24949723/208739459-560ec0c4-76e4-404c-a7ec-eb204d5b8893.png)
+
 Dataset Information: <br>
 Title: Letter Image Recognition Data <br>
 Source Information -- Creator: David J. Slate -- Odesta Corporation; 1890 Maple Ave; Suite 115; Evanston, IL 60201 -- Donor: David J. Slate (dave@math.nwu.edu) (708) 491-3867 <br>
