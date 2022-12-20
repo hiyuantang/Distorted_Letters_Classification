@@ -1,5 +1,4 @@
 # An Assessment of 26-ways Classification of Distorted English Letters
-A Group Project for COGS 109: Data Analysis and Modeling (Spring 2021)
 
 Final report is [here](https://github.com/holatangyuan/Distorted_Letters_Classification/blob/main/final_report/FinalPaper.pdf)
 
@@ -33,3 +32,5 @@ y-ege mean edge count bottom to top (integer) <br>
 yegvx correlation of y-ege with x (integer) <br>
 Missing Attribute Values: None <br>
 Class Distribution: 789 A 766 B 736 C 805 D 768 E 775 F 773 G 734 H 755 I 747 J 739 K 761 L 792 M 783 N 753 O 803 P 783 Q 758 R 748 S 796 T 813 U 764 V 752 W 787 X 786 Y 734 Z
+
+A Group Project for COGS 109: Data Analysis and Modeling (Spring 2021)
